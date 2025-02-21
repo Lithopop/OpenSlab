@@ -4,4 +4,6 @@ JayFree and greendusk for beta prints and testing.
 
 InfraredAces for the fantastic idea of making my documentation "more IKEA".
 
+Xanibunib for finding an error in my clean step file with Bottom print plate b.
+
 OpenStickCommunity and /r/Fightsticks Discord for support and feedback.
