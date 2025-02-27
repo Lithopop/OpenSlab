@@ -38,7 +38,7 @@ Plexi build hardware needed/electronics needed
 -----------
 10 x 15mm m3 standoff
 
-30 x 8mm flat head m3 hex 
+34 x 8mm flat head m3 hex 
 
 14 x m3 nut
 
@@ -53,6 +53,7 @@ Choice of low profile buttons
 gpio Button Module Push Button Board
 
 RP2040
+
 
 Full 3d Print build hardware/electronics needed
 -----------
