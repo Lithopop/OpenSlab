@@ -105,6 +105,15 @@ m3 nut
 
 
 
+While it's not necessary, Donations are always appreciated and help speed up revisions and development of other projects. (and/or farther the endeavor to push my little girl into real video games and get her away from tablet based subway surfers clones)
+paypal.me/williamthomas157
+
+
+
+Feel free to contact me on discord with any comments, questions or suggestions.
+
+riverbottom
+
 
 
 
